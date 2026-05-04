@@ -31,27 +31,27 @@ class AKi_Agent:
     role       = ["Data Analyst", "ML Learner", "Web Dev Apprentice"]
     
     current_ops = [
-        "📊 Analyzing OpinRank dataset with NumPy & Pandas",
-        "🤖 Building a QA System with Hugging Face Transformers",
-        "🌐 Crafting my personal portfolio website",
-        "📚 Studying ML pipelines & data workflows"
+        "Analyzing OpinRank dataset with NumPy & Pandas",
+        "Building a QA System with Hugging Face Transformers",
+        "Crafting my personal portfolio website",
+        "Studying ML pipelines & data workflows"
     ]
     
     mission    = "Combining data, ML & code to build things that matter."
     
     def fun_facts(self):
         return [
-            "🔍 Passionate about real-world data problems",
-            "🧠 Actively shipping projects to level up in ML & dev",
-            "☕ Runs on curiosity + caffeine"
+            "Passionate about real-world data problems",
+            "Actively shipping projects to level up in ML & dev",
+            "Runs on curiosity + caffeine"
         ]
 
-# >> PROFILE LOADED SUCCESSFULLY ✅
+# >> PROFILE LOADED SUCCESSFULLY
 ```
 
 ---
 
-## ⚡ `// TECH ARSENAL`
+## `TECH ARSENAL`
 
 <div align="center">
 
@@ -80,22 +80,22 @@ class AKi_Agent:
 
 ---
 
-## 🛰️ `// ACTIVE MISSIONS`
+## `ACTIVE MISSIONS`
 
 <div align="center">
 
-| 🔥 Project | 🧩 Stack | 📡 Status |
+|  Project |  Stack |  Status |
 |---|---|---|
-| 📊 OpinRank Dataset Analysis | NumPy, Pandas | `[IN PROGRESS]` |
-| 🤖 Question Answering System | HuggingFace Transformers | `[IN PROGRESS]` |
-| 🌐 Personal Portfolio Website | HTML, CSS | `[BUILDING]` |
-| 🧠 ML Workflow Mastery | Python, Sklearn | `[LEARNING]` |
+|  OpinRank Dataset Analysis | NumPy, Pandas | `[IN PROGRESS]` |
+|  Question Answering System | HuggingFace Transformers | `[IN PROGRESS]` |
+|  Personal Portfolio Website | HTML, CSS | `[BUILDING]` |
+|  ML Workflow Mastery | Python, Sklearn | `[LEARNING]` |
 
 </div>
 
 ---
 
-## 📡 `// SIGNAL STRENGTH — GITHUB STATS`
+## `SIGNAL STRENGTH — GITHUB STATS`
 
 <div align="center">
 
@@ -110,7 +110,7 @@ class AKi_Agent:
 
 ---
 
-## 🧬 `// GITHUB ACTIVITY GRID`
+## `GITHUB ACTIVITY GRID`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ class AKi_Agent:
 
 ---
 
-## 📡 `// OPEN CHANNELS — CONNECT`
+## `OPEN CHANNELS — CONNECT`
 
 <div align="center">
 
@@ -133,7 +133,7 @@ class AKi_Agent:
 
 ---
 
-## 🧠 `// NEURAL LOGS — FUN FACTS`
+## `NEURAL LOGS — FUN FACTS`
 
 ```bash
 >> akibot --introspect
@@ -154,6 +154,6 @@ class AKi_Agent:
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:0ff0fc,100:7b2ff7&height=120&section=footer&text=Let's+Build+the+Future+Together&fontSize=18&fontColor=0d0d0d&animation=twinkling&fontAlignY=65" width="100%"/>
 
-<sub>⚡ Crafted with code, curiosity, and a cyberpunk soul by <strong>Aditya Bhadade (AKi-dev-07)</strong></sub>
+<sub> Crafted with code, curiosity, and a cyberpunk soul by <strong>Aditya Bhadade (AKi-dev-07)</strong></sub>
 
 </div>
